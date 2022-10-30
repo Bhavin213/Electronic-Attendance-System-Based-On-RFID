@@ -6,8 +6,7 @@ $ Details of the students are stored in a data base.<br>
 $ This data can be used to record and maintain the attendance of the students/employees in class/organizations.<br>
 
 # Contact Details<br>
-gordhansavaliya7@gmail.com<br>
-savaliyabhavin213@gmail.com<br>
+savliyabhavin213@gmail.com<br>
 
 # Drive Link
 https://drive.google.com/drive/folders/1akwgllHo2zeFIz8W4cGeTKXlJkPvQraI?usp=sharing
